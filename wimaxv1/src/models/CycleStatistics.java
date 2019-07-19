@@ -5,10 +5,7 @@
  */
 package models;
 
-/**
- *
- * @author amineelouattar
- */
+
 public class CycleStatistics {
     
     private int cycleNumber, vrt,vnrt,vbe;
